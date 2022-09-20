@@ -13,3 +13,4 @@
 ![image](https://user-images.githubusercontent.com/40246928/191336701-af3225a6-685d-44de-a079-d65445b5a4a2.png)
 
 ![image](https://user-images.githubusercontent.com/40246928/191336759-6f377aa5-fa35-47f8-8f36-1d771acee6f8.png)
+No NGRX
