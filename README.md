@@ -1,7 +1,7 @@
 # Data Sharing Counter #
 ## DEMO ##
 
-![image](https://user-images.githubusercontent.com/40246928/191336583-4c4c956d-a643-4b05-960f-b1906baa6ab3.png)
+![image](https://user-images.githubusercontent.com/40246928/191839028-bff6772d-3cd9-44fa-8bb5-31c360169f07.png)
 
 ### the parent component that listens for event emitters and passes its variable counter into the child that displays the output ###
 
