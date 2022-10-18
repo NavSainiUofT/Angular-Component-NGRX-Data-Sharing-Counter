@@ -1,4 +1,4 @@
-# Data Sharing Counter with NGRX#
+# Data Sharing Counter with NGRX
 ## DEMO ##
 
 ![image](https://user-images.githubusercontent.com/40246928/191839028-bff6772d-3cd9-44fa-8bb5-31c360169f07.png)
